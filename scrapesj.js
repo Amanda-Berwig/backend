@@ -15,10 +15,9 @@ async function scrapeProdutos() {
     await page.setDefaultNavigationTimeout(60000);
 
     console.log("Navegando para a página da São João...");
-    await page.goto(
-      "https://www.saojoaofarmacias.com.br/beleza-e-cuidados-pessoais",
-      { waitUntil: "networkidle2" }
-    );
+    await page.goto("https://www.saojoaofarmacias.com.br/higiene", {
+      waitUntil: "networkidle2",
+    });
 
     await new Promise((resolve) => setTimeout(resolve, 3000));
     console.log("Aguardando carregamento dos produtos...");

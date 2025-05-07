@@ -21,7 +21,7 @@ async function scrapeProdutos() {
 
     console.log("Navegando para a página da Drogasil...");
     await page.goto(
-      "https://www.drogasil.com.br/beleza/cuidados-com-a-pele.html",
+      "https://www.drogasil.com.br/cuidados-diarios/higiene-pessoal.html",
       { waitUntil: "networkidle2" } // Esperar até que a rede esteja praticamente inativa
     );
 
