@@ -1,0 +1,290 @@
+[
+  {
+    "nome": "Sabonete Em Barra Granado Enxofre Com 90g",
+    "preco": "R$11,79",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/granado-sabonete-especias-antiseptico-enxofre-90-g.html"
+  },
+  {
+    "nome": "Kit Sabonete Dove Original Em Barra - 6 Unidades",
+    "preco": "R$26,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/dove-sabonete-em-barra-regular-leve-6-pague-5.html"
+  },
+  {
+    "nome": "Protetor Solar Facial FPS 50 Bioré UV Perfect Milk 40ml",
+    "preco": "R$74,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/biore-uv-perfect-milk-40ml.html"
+  },
+  {
+    "nome": "Azelan 150mg/G Gel 30g",
+    "preco": "R$93,73",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/azelan-gel-30-gramas.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Buquê De Jasmim 85g",
+    "preco": "R$2,59",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-barra-buque-de-jasmim-85g.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Lavanda Com 85g",
+    "preco": "R$2,59",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-barra-lavanda-85g.html"
+  },
+  {
+    "nome": "Sabonete Líquido Lux Botanicals Orquídea Negra Refil Com 200ml",
+    "preco": "1 Un. \nR$8,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-orquidea-negra-200ml.html"
+  },
+  {
+    "nome": "Loção Hidratante Nivea Milk Pele Seca A Extrasseca 400ml",
+    "preco": "R$24,79",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/nivea-body-hidratante-milk-extra-seca-400ml.html"
+  },
+  {
+    "nome": "Protetor Solar Facial FPS 70 Needs Controle De Oleosidade 40g",
+    "preco": "1 Un. \nR$39,92",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/needs-protetor-solar-facial-controle-de-oleosidade-sem-cor-fps70-40g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial La Roche-Posay Anthelios Ultra Cover FPS 60 Cor 3.0 30g",
+    "preco": "R$96,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/anthelios-protetor-solar-facial-lrp-ultra-cover-pele-clara-fps60-30g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial La Roche-Posay Anthelios Ultra Cover FPS 60 Cor 2.0 30g",
+    "preco": "R$96,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/anthelios-protetor-solar-facial-lrp-ultra-cover-pele-extra-clara-fps60-30g.html"
+  },
+  {
+    "nome": "Bepantriz Derma Creme Com 20g",
+    "preco": "R$34,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/bepantriz-derma-crem-20g.html"
+  },
+  {
+    "nome": "Kit Pomada Reparadora Intensiva Eucerin Aquaphor DuoPack Com 2 Unidades",
+    "preco": "R$54,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/eucerin-aquaphor-com-duas-unidades-20ml-cada.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Lux Botanicals Buquê De Jasmim 200ml",
+    "preco": "1 Un. \nR$8,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-buque-de-jasmim-200ml.html"
+  },
+  {
+    "nome": "Protetor Solar Facial Umbrella Perfect Skin FPS 50 Claro 50g",
+    "preco": "R$116,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/umbrella-protetor-solar-perfect-skin-claro-fps50-50g.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Corporal Dove Nutrição Profunda Com 200ml",
+    "preco": "1 Un. \nR$11,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/dove-sab-liquido-nutricao-profunda-refil-200ml.html"
+  },
+  {
+    "nome": "Protetor Solar Corporal Loção FPS 50+ Mustela 100ml",
+    "preco": "R$139,14",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/mustela-protetor-solar-infatil-locao-fps50-100ml.html"
+  },
+  {
+    "nome": "Pasta D'Água Needs 140g",
+    "preco": "1 Un. \nR$11,69",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/needs-pasta-d-agua-140g.html"
+  },
+  {
+    "nome": "Protetor Solar Infantil FPS 70 Needs Solar Kids Bastão 12g",
+    "preco": "1 Un. \nR$63,92",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/needs-protetor-solar-em-bastao-kids-sem-cor-fps70-12g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial Dermage FPS 50 Photoage Water 40g",
+    "preco": "R$99,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/dermage-photoage-water-fps50-40g.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Lux Botanicals Lavanda Com 200ml",
+    "preco": "1 Un. \nR$8,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-lavanda-200ml.html"
+  },
+  {
+    "nome": "Creme Reparador Hidratante Mustela Bebê Cicastela Pele Sensibilizada Com 40ml",
+    "preco": "1 Un. \nR$82,73",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/creme-reparador-hidratante-mustela-cicastela.html"
+  },
+  {
+    "nome": "Creme Hidratante Corporal Fisiogel Hipoalergênico 450g",
+    "preco": "R$90,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/fisiogel-creme-pote-450g.html"
+  },
+  {
+    "nome": "Geléia De Vaselina Vasenol Original 100g",
+    "preco": "R$35,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/geleia-de-vaselina-100-pura-original-100g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS 80 40g",
+    "preco": "R$104,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/la-roche-posay-protetor-solar-facial-anthelios-airlicium-fps80-sem-cor-40ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Bromélia 100g",
+    "preco": "R$4,49",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-bromelia-100g.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Flor Do Cajueiro 100g",
+    "preco": "R$4,49",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-flor-do-cajueiro-100g.html"
+  },
+  {
+    "nome": "Creme Multirrestaurador Bepantol Derma 20g",
+    "preco": "R$43,23",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/bepantol-derma-creme-20-gramas.html"
+  },
+  {
+    "nome": "Kit Actine Protetor Solar FPS 60 Color 40g + Gel De Limpeza 40g",
+    "preco": "R$76,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/actine-protetor-solar-color-fps60-40g-sabonete-liquido-40g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial Episol Color FPS 70 Tom 2 40ml",
+    "preco": "R$94,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/episol-protetor-solar-color-tom-2-claro-fps70-40ml.html"
+  },
+  {
+    "nome": "Protetor Solar Facial Solução FPS 60 Isdin 30ml",
+    "preco": "R$79,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/isdin-protetor-solar-fusion-water-fps60-30ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Nivea Creme Care Promo 6 Uni 90g",
+    "preco": "1 Un. \nR$26,95",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/nivea-sabonete-barra-creme-care-box-leve-6-pague-5-com-90g-cada.html"
+  },
+  {
+    "nome": "Protetor Solar Facial Filtrum Ultra Seco FPS 30 60g",
+    "preco": "R$77,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/filtrum-ultra-seco-60g.html"
+  },
+  {
+    "nome": "Hidratante Corporal Neutrogena Body Care Intensive Hidrata&Repara 400ml",
+    "preco": "R$42,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/neutrogena-body-care-hidratante-intense-hidrata-e-repara-400ml.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Lux Botanicals Rosas Francesas Com 200ml",
+    "preco": "1 Un. \nR$8,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-rosas-francesas-200ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Gardênia E Óleo De Amêndoas Glicerinado 85g",
+    "preco": "R$2,59",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-sabonete-em-barra-gardenia-e-oleo-de-amendoas-85g-1022095.html"
+  },
+  {
+    "nome": "Óleo Corporal Bio-Oil Antiestrias E Cicatrizante 200ml",
+    "preco": "R$119,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/bio-oil-oleo-corporal-200ml.html"
+  },
+  {
+    "nome": "Protetor Solar Corporal FPS 50 Helioderm Suncare 200g",
+    "preco": "R$48,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/helioderm-suncare-protetor-solar-fps50-200g.html"
+  },
+  {
+    "nome": "Solução Capilar Líquida Restauradora Bepantol Derma 50ml",
+    "preco": "R$38,17",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/bepantol-derma-solucao-50-ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Dama-Da-Noite 100g",
+    "preco": "R$4,49",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-dama-da-noite-100g.html"
+  },
+  {
+    "nome": "Hidratante Facial Needs Beauty Ácido Hialurônico E Pepino 100g",
+    "preco": "R$27,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/needs-hidratante-gel-facial-7-em-1-acido-hialuronico-e-pepino-100g.html"
+  },
+  {
+    "nome": "Protetor Solar Facial FPS 70 Nivea Sun Toque Seco Antissinais 40ml",
+    "preco": "R$50,89",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/nivea-sun-protetor-solar-toque-seco-antissinais-fps70-40ml.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Para Mãos Lux Botanicals Rosas Francesas 500ml",
+    "preco": "1 Un. \nR$16,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/lux-botanicals-refil-sabonete-liquido-para-maos-flor-de-cerejeira-500ml.html"
+  },
+  {
+    "nome": "Protetor Solar Corporal Facial Fluido Hidratante Antioxidante FPS 99 Neostrata Minesol 200ml",
+    "preco": "R$172,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/neostrata-minesol-corpo-rosto-protetor-solar-fluido-hidratante-antioxidante-fps99-200ml.html"
+  },
+  {
+    "nome": "Loção Hidratante Umiditá Gestante 200ml",
+    "preco": "R$109,99",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/umidita-gestante-locao-hidratante-200ml.html"
+  },
+  {
+    "nome": "Kit Protetor Solar Corporal Nivea Sun Protect & Hidrata Com 1 Protetor Infantil Kids FPS 60 100ml + 1 Protetor Adulto FPS 50 200ml",
+    "preco": "R$69,89",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/nivea-sun-protecao-e-hidratacao-fps50-200ml-protecao-e-hidratacao-fps60-kids-100ml-gratis.html"
+  },
+  {
+    "nome": "Protetor Solar Facial FPS 70 Helioderm Sem Cor 50g",
+    "preco": "R$46,53",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/helioderm-protetor-solar-facial-sem-cor-fps70-50g.html"
+  },
+  {
+    "nome": "Hidratante Para Os Pés Isdin Foot Care Ureadin Podos Gel 80,25g",
+    "preco": "R$89,90",
+    "imagem": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTcwIiBoZWlnaHQ9IjE3MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=",
+    "link": "https://www.drogasil.com.br/ureadin-podos-gel-oil-sem-perfume-75ml.html"
+  }
+]
