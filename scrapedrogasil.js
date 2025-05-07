@@ -30,6 +30,7 @@ async function scrapeProdutos() {
     await new Promise((resolve) => setTimeout(resolve, 3000));
 
     console.log("Aguardando carregamento dos produtos...");
+    await autoScroll(page); // <--- Adiciona isso aqui
 
     // Esperar pelo seletor que provavelmente contém os produtos
     // Usando um seletor mais genérico que tem mais chances de funcionar
@@ -38,6 +39,26 @@ async function scrapeProdutos() {
       .catch(() =>
         console.log("Não encontrou o seletor .product-item, tentando outro...")
       );
+
+    // Função que faz scroll automático até o final da página
+    async function autoScroll(page) {
+      await page.evaluate(async () => {
+        await new Promise((resolve) => {
+          let totalHeight = 0;
+          const distance = 300;
+          const timer = setInterval(() => {
+            const scrollHeight = document.body.scrollHeight;
+            window.scrollBy(0, distance);
+            totalHeight += distance;
+
+            if (totalHeight >= scrollHeight - window.innerHeight) {
+              clearInterval(timer);
+              resolve();
+            }
+          }, 200);
+        });
+      });
+    }
 
     // Capturando os dados dos produtos
     const produtos = await page.evaluate(() => {
@@ -61,18 +82,35 @@ async function scrapeProdutos() {
             produto.querySelector(".product-title") ||
             produto.querySelector("h2") ||
             produto.querySelector("a[title]");
-
           // Tentando diferentes seletores para o preço
           const precoElement =
             produto.querySelector(".price") ||
             produto.querySelector(".product-price") ||
             produto.querySelector("[data-testid='price']");
 
-          // Tentando diferentes seletores para a imagem
-          const imagemElement = produto.querySelector("img");
-
           // Tentando diferentes seletores para o link
           const linkElement = produto.querySelector("a") || produto;
+
+          const imagemElement = produto.querySelector(
+            "[data-testid='product-image']"
+          );
+          let imagem = "Imagem não encontrada";
+
+          if (imagemElement) {
+            const src = imagemElement.getAttribute("src");
+            if (src && src.includes("/_next/image?url=")) {
+              try {
+                const urlParams = new URLSearchParams(src.split("?")[1]);
+                const rawUrl = urlParams.get("url");
+                imagem = decodeURIComponent(rawUrl);
+              } catch (error) {
+                console.error("Erro ao extrair URL real da imagem:", error);
+                imagem = "Erro ao extrair imagem";
+              }
+            } else if (src && !src.startsWith("data:image")) {
+              imagem = src;
+            }
+          }
 
           const nome = nomeElement
             ? nomeElement.innerText.trim()
@@ -80,9 +118,7 @@ async function scrapeProdutos() {
           const preco = precoElement
             ? precoElement.innerText.trim()
             : "Preço não encontrado";
-          const imagem = imagemElement
-            ? imagemElement.src
-            : "Imagem não encontrada";
+
           const link = linkElement.href || "Link não encontrado";
 
           listaProdutos.push({ nome, preco, imagem, link });
