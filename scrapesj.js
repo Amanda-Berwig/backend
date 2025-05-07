@@ -73,9 +73,9 @@ async function scrapeProdutos() {
           const precoElement = produto.querySelector(
             ".sjdigital-custom-apps-6-x-sellingPriceValue"
           );
-          const linkElement = produto.querySelector(
-            ".vtex-product-summary-2-x-clearLink"
-          );
+          // Acessa o href do elemento pai (a tag <a>)
+          const linkElement = produto.parentElement;
+
           const imagemElement = produto.querySelector(
             ".vtex-product-summary-2-x-imageNormal"
           );
@@ -86,7 +86,11 @@ async function scrapeProdutos() {
           const preco = precoElement
             ? precoElement.innerText.trim()
             : "Preço não encontrado";
-          const link = linkElement ? linkElement.href : "Link não encontrado";
+          const link =
+            linkElement && linkElement.href
+              ? linkElement.href
+              : "Link não encontrado";
+
           const imagem = imagemElement
             ? imagemElement.src
             : "Imagem não encontrada";
