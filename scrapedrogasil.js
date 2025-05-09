@@ -83,10 +83,9 @@ async function scrapeProdutos() {
             produto.querySelector("h2") ||
             produto.querySelector("a[title]");
           // Tentando diferentes seletores para o preço
-          const precoElement =
-            produto.querySelector(".price") ||
-            produto.querySelector(".product-price") ||
-            produto.querySelector("[data-testid='price']");
+          const precoElement = produto.querySelector(".price-number");
+          // produto.querySelector(".product-price") ||
+          // produto.querySelector("[data-testid='price']");
 
           // Tentando diferentes seletores para o link
           const linkElement = produto.querySelector("a") || produto;
