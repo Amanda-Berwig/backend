@@ -228,6 +228,12 @@
     "link": "https://www.drogasil.com.br/needs-hastes-flexiveis-cartucho-150-unidades.html"
   },
   {
+    "nome": "Spray Antisséptico Needs Digluconato De Clorexidina 1% 30ml",
+    "preco": "R$8,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3468081.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-gliconato-clorexidina-1-30ml.html"
+  },
+  {
     "nome": "Sabonete Em Barra Nivea Creme Care Promo 6 Uni 90g",
     "preco": "R$26,95",
     "imagem": "https://product-data.raiadrogasil.io/images/10662711.webp?width=170&height=170&quality=85&type=resize",
@@ -260,7 +266,7 @@
   {
     "nome": "Absorvente Sempre Livre Adapt Cobertura Suave Com Abas Com 16 Unidades",
     "preco": "R$10,89",
-    "imagem": "https://product-data.raiadrogasil.io/images/3451986.webp?width=170&height=170&quality=85&type=resize",
+    "imagem": "Imagem não encontrada",
     "link": "https://www.drogasil.com.br/sempre-livre-especial-absorvente-toque-suave-neutralizador-de-odores-com-abas-16-unidades.html"
   },
   {
@@ -280,11 +286,5 @@
     "preco": "R$4,49",
     "imagem": "Imagem não encontrada",
     "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-dama-da-noite-100g.html"
-  },
-  {
-    "nome": "Spray Antisséptico Needs Digluconato De Clorexidina 1% 30ml",
-    "preco": "R$8,99",
-    "imagem": "Imagem não encontrada",
-    "link": "https://www.drogasil.com.br/needs-gliconato-clorexidina-1-30ml.html"
   }
 ]

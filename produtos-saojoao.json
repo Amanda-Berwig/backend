@@ -36,6 +36,18 @@
     "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-granado-tratamento-enxofre-90g-8593/p"
   },
   {
+    "nome": "Papel Higiênico Stylus Folha Dupla 20m 12 Unidades",
+    "preco": "R$ 12,99",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1032778-300-300?v=638815337370870000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/papel-higienico-stylus-folha-dupla-20m-12-unidades-10027058/p"
+  },
+  {
+    "nome": "Creme Dental Clareador Colgate Luminous White Carvão Ativado 70g 3 unidades",
+    "preco": "R$ 15,99",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1027949-300-300?v=638822393874800000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/creme-dental-clareador-colgate-luminous-white-carvao-ativado-70g-3-unidades-10040356/p"
+  },
+  {
     "nome": "Absorvente com Abas Suave Sempre Livre Adapt 32 Unidades",
     "preco": "R$ 16,49",
     "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1144064-300-300?v=638816344913900000&width=300&height=300&aspect=true",
@@ -48,22 +60,16 @@
     "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-albany-futras-vermelhas-85g-10035289/p"
   },
   {
-    "nome": "Creme Dental Colgate Lominous White Carvão Ativado 3 Unidades 70g",
-    "preco": "R$ 15,99",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1027949-300-300?v=638822370057770000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/creme-dental-colgate-lominous-white-carvao-ativado-3-unidades-70g-10040356/p"
-  },
-  {
-    "nome": "Papel Higiênico Stylus Folha Dupla 20m 12 Unidades",
-    "preco": "Preço não encontrado",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1032778-300-300?v=638815337370870000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/papel-higienico-stylus-folha-dupla-20m-12-unidades-10027058/p"
-  },
-  {
     "nome": "Sabonete Líquido Lux Refil Orquídea Negra 200ml",
     "preco": "Preço não encontrado",
     "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1108362-300-300?v=638729995811300000&width=300&height=300&aspect=true",
     "link": "https://www.saojoaofarmacias.com.br/sabonete-liquido-lux-refil-orquidea-negra-200ml-10000386/p"
+  },
+  {
+    "nome": "Creme Dental Para Sensibilidade Colgate Sensitive Pro Alívio Imediato Original 90g 3 unidades",
+    "preco": "R$ 23,99",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/920398-300-300?v=638822393718770000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/creme-dental-para-sensibilidade-colgate-sensitive-pro-alivio-imediato-original-90g-3-unidades-10018861/p"
   },
   {
     "nome": "Sabonete e Barra Albany Óleo de Macadâmia 85g",
@@ -78,12 +84,6 @@
     "link": "https://www.saojoaofarmacias.com.br/desodorante-axe-body-apollo-aerossol-152ml-100011848/p"
   },
   {
-    "nome": "Creme Dental Colgate Sensitive Pro Alívio Imediato 90g Leve 3 Pague 2",
-    "preco": "R$ 23,99",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/920398-300-300?v=638822368218330000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/creme-dental-colgate-sensitive-pro-alivio-imediato-90g-leve-3-pague-2-10018861/p"
-  },
-  {
     "nome": "Desodorante Rexona Feminino Powder Dry Aerossol 150ml",
     "preco": "R$ 16,90",
     "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1089407-300-300?v=638684007047200000&width=300&height=300&aspect=true",
@@ -96,22 +96,34 @@
     "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-albany-anticacteriano-limpeza-profunda-85g-10035292/p"
   },
   {
-    "nome": "Sabonete em Barra Albany Homem Controle de Odor 85g",
-    "preco": "R$ 1,99",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1075643-300-300?v=638774068078600000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-albany-homem-controle-de-odor-85g-10035300/p"
-  },
-  {
     "nome": "Aparelho de Depilação Gillette Venus Simply3 Leve 4 Pague 3",
     "preco": "R$ 20,22",
     "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1115616-300-300?v=638787064326000000&width=300&height=300&aspect=true",
     "link": "https://www.saojoaofarmacias.com.br/aparelho-de-depilacao-gillette-venus-simply3-leve-4-pague-3-100021204/p"
   },
   {
+    "nome": "Sabonete Líquido Protex Cuidado Íntimo Delicate Care 40ml",
+    "preco": "R$ 4,99",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1018150-300-300?v=638738582765830000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/sabonete-liquido-protex-cuidado-intimo-delicate-care-40ml-10000787/p"
+  },
+  {
+    "nome": "Sabonete em Barra Albany Homem Controle de Odor 85g",
+    "preco": "R$ 1,99",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1075643-300-300?v=638774068078600000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-albany-homem-controle-de-odor-85g-10035300/p"
+  },
+  {
     "nome": "Sabonete em Barra Albany Hidratação Profunda Amêndoa Doce 85g",
     "preco": "R$ 1,99",
     "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1023712-300-300?v=638772374924430000&width=300&height=300&aspect=true",
     "link": "https://www.saojoaofarmacias.com.br/sabonete-em-barra-albany-hidratacao-profunda-amendoa-doce-85g-10035311/p"
+  },
+  {
+    "nome": "Creme Dental Oral-B 3D White 3 Unidades de 70g",
+    "preco": "R$ 15,90",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/801837-300-300?v=638784330298230000&width=300&height=300&aspect=true",
+    "link": "https://www.saojoaofarmacias.com.br/creme-dental-oral-b-3d-white-3-unidades-de-70g-100011507/p"
   },
   {
     "nome": "Papel Higiênico Louvre Folha Dupla 20m 12 Unidades",
@@ -126,21 +138,9 @@
     "link": "https://www.saojoaofarmacias.com.br/preservativo-prudence-ultra-sensivel-8-unidades-100015207/p"
   },
   {
-    "nome": "Desodorante Monange Feminino Extrato de Oliva Aerossol 150ml",
-    "preco": "Preço não encontrado",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1075041-300-300?v=638666676371030000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/desodorante-monange-feminino-extrato-de-oliva-aerossol-150ml-100005962/p"
-  },
-  {
-    "nome": "Sabonete Líquido Protex Cuidado Íntimo Delicate Care 40ml",
-    "preco": "R$ 4,99",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1018150-300-300?v=638738582765830000&width=300&height=300&aspect=true",
-    "link": "https://www.saojoaofarmacias.com.br/sabonete-liquido-protex-cuidado-intimo-delicate-care-40ml-10000787/p"
-  },
-  {
     "nome": "Absorvente Externo Sempre Livre Adapt Com Abas Suave 16un",
     "preco": "R$ 9,49",
-    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1144854-300-300?v=638822094143230000&width=300&height=300&aspect=true",
+    "imagem": "https://sjdigital.vtexassets.com/arquivos/ids/1145901-300-300?v=638823823860170000&width=300&height=300&aspect=true",
     "link": "https://www.saojoaofarmacias.com.br/absorvente-com-abas-suave-sempre-livre-adapt-16-unidades-10090814/p"
   }
 ]
