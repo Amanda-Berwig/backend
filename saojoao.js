@@ -1,31 +1,23 @@
-// server.js
 const express = require("express");
-const app = express();
-const port = 3000; // Você pode escolher outra porta
+const cors = require("cors");
+const fs = require("fs");
 
-// Middleware para permitir CORS (Cross-Origin Resource Sharing)
-// Isso é importante se você for acessar o servidor de outro domínio (por exemplo, um frontend React)
-app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header(
-    "Access-Control-Allow-Headers",
-    "Origin, X-Requested-With, Content-Type, Accept"
-  );
-  next();
-});
+const app = express(); // ✅ certifique-se que essa linha existe antes de usar "app"
 
-// Rota para servir o arquivo JSON
+const PORT = 3000;
+
+app.use(cors());
+
 app.get("/produtos", (req, res) => {
   try {
-    const produtos = require("./produtos-saojoao.json"); // Caminho para o seu arquivo JSON
-    res.json(produtos);
+    const data = fs.readFileSync("produtos-saojoao.json", "utf-8");
+    res.json(JSON.parse(data));
   } catch (error) {
     console.error("Erro ao ler o arquivo JSON:", error);
     res.status(500).send("Erro ao carregar os produtos.");
   }
 });
 
-// Inicie o servidor
-app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
+app.listen(PORT, () => {
+  console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
