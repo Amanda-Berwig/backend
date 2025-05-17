@@ -70,9 +70,13 @@ async function scrapeProdutos() {
             produto.querySelector(
               ".vtex-product-summary-2-x-productBrand.vtex-product-summary-2-x-brandName.t-body"
             );
-          const precoElement = produto.querySelector(
-            ".sjdigital-custom-apps-6-x-sellingPriceValue"
-          );
+          const precoElement =
+            produto.querySelector(
+              ".sjdigital-custom-apps-6-x-sellingPriceValue"
+            ) ||
+            produto.querySelector(
+              ".sjdigital-custom-apps-6-x-wholesaleSecondaryPriceShelf"
+            );
           // Acessa o href do elemento pai (a tag <a>)
           const linkElement = produto.parentElement;
 
