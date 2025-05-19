@@ -1,146 +1,290 @@
 [
   {
-    "nome": "Desodorante Roll On Perspirex 20ml",
-    "preco": "R$ 97,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/120309-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-roll-on-perspirex-20ml/p-120309"
+    "nome": "Lenço De Papel Kleenex Com 100 Unidades",
+    "preco": "R$16,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3447809.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/kleenex-leno-suave-leve-100-pague-90.html"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Clinical Classic 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117340-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-clinical-classic-150ml/p-117340"
+    "nome": "Sabonete Em Barra Granado Enxofre Com 90g",
+    "preco": "R$11,79",
+    "imagem": "https://product-data.raiadrogasil.io/images/3682599.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/granado-sabonete-especias-antiseptico-enxofre-90-g.html"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Clinical Extra Dry 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117341-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-clinical-extra-dry-150ml/p-117341"
+    "nome": "Kit Sabonete Dove Original Em Barra - 6 Unidades",
+    "preco": "R$26,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/13660423.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-sabonete-em-barra-regular-leve-6-pague-5.html"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Men Clinical Clean 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117339-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-men-clinical-clean-150ml/p-117339"
+    "nome": "Sabonete Em Barra Lux Botanicals Buquê De Jasmim 85g",
+    "preco": "R$2,59",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451830.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-barra-buque-de-jasmim-85g.html"
   },
   {
-    "nome": "Shampoo Anticaspa Head & Shoulders Anticoceira 400ml",
-    "preco": "R$ 22,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/564290-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/shampoo-anticaspa-head-e-shoulders-anticoceira-400ml/p-564290"
+    "nome": "Algodão Disco Needs Beauty 50 Unidades",
+    "preco": "R$9,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/11233998.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-algodao-disco-37g.html"
   },
   {
-    "nome": "Escova Dental Elétrica A Pilhas Oral-b Power Pro Clean Branca",
-    "preco": "R$ 79,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/111840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/escova-dental-eletrica-a-pilhas-oral-b-power-pro-clean-branca/p-111840"
+    "nome": "Sabonete Em Barra Lux Botanicals Lavanda Com 85g",
+    "preco": "R$2,59",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451854.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-barra-lavanda-85g.html"
   },
   {
-    "nome": "Desodorante Antitranspirante Aerossol Nivea Derma Protect Clinical 150ml",
-    "preco": "R$ 14,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102031-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-derma-protect-clinical-150ml/p-102031"
+    "nome": "Sabonete Líquido Lux Botanicals Orquídea Negra Refil Com 200ml",
+    "preco": "R$8,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451908.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-orquidea-negra-200ml.html"
   },
   {
-    "nome": "Kit Sabonete Em Barra Nivea Pure Milk Sensitive Promo 6 Unidades 90g Cada",
-    "preco": "R$ 26,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/107352-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-sabonete-em-barra-nivea-pure-milk-sensitive-promo-6-unidades-90g-cada/p-107352"
+    "nome": "Desodorante Antitranspirante Aerosol Dove Men +Care Sem Perfume 48h 150ml",
+    "preco": "R$19,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3448445.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-men-desodorante-aerosol-sem-perfume-89-gr.html"
   },
   {
-    "nome": "Kit Creme Dental Colgate Sensitive Pro Alivio Xtreme Leve 3 Pague 2 90g Cada",
-    "preco": "R$ 23,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/91567-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-colgate-sensitive-pro-alivio-xtreme-leve-3-pague-2-90g-cada/p-91567"
+    "nome": "Absorvente Intimus Tripla Proteção Cobertura Suave Com Abas Com 32 Unidades",
+    "preco": "R$20,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/11813914.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/intimus-gel-absorvente-normal-suave-com-abas-pacote-com-32-unidades.html"
   },
   {
-    "nome": "Kit Escova De Dente Colgate Slim Soft 4 Unidades",
-    "preco": "R$ 27,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/108234-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-de-dente-colgate-slim-soft-4-unidades/p-108234"
+    "nome": "Algodão Quadrado Needs 250 Unidades",
+    "preco": "R$15,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/10874600.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-algodao-quadradinho-com-250-unidades.html"
   },
   {
-    "nome": "Creme Dental Colgate Sensitive Pro Alívio Imediato Original 90g 3 Unidades",
-    "preco": "R$ 23,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/114680-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/creme-dental-colgate-sensitive-pro-alivio-imediato-original-90g-3-unidades/p-114680"
+    "nome": "Sabonete De Glicerina Em Barra Granado Bebê Tradicional Com 90g",
+    "preco": "R$8,54",
+    "imagem": "https://product-data.raiadrogasil.io/images/3708857.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/granado-sabonete-infantil-glicerina-bebe-90-g.html"
   },
   {
-    "nome": "Sérum Hidratante Corporal Dove Niacinamida 380ml",
-    "preco": "R$ 46,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/94241-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/serum-hidratante-corporal-dove-niacinamida-380ml/p-94241"
+    "nome": "Desodorante Antitranspirante Stick Creme Rexona Clinical Classic Feminino 96h 58g",
+    "preco": "R$32,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3536706.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/rexona-desodorante-creme-clinical-classic-58g.html"
   },
   {
-    "nome": "Kit Creme Dental Colgate Luminous White Carvão Ativado 70g Com 3 Unidades",
-    "preco": "R$ 15,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/94401-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-colgate-luminous-white-carvao-ativado-70g-com-3-unidades/p-94401"
+    "nome": "Sabonete Líquido Infantil Granado Bebê Glicerina Tradicional Refil 250ml",
+    "preco": "R$25,59",
+    "imagem": "https://product-data.raiadrogasil.io/images/3708936.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/granado-sabonete-infantil-glicerina-bebe-tradicional-refil-250ml.html"
   },
   {
-    "nome": "Sabonete Líquido Corporal Nivea Óleo De Banho Com 200ml",
-    "preco": "R$ 38,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/428480-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-corporal-nivea-oleo-de-banho-com-200ml/p-428480"
+    "nome": "Hastes Flexíveis Cotonetes Johnson & Johnson Com 75 Unidades",
+    "preco": "R$6,79",
+    "imagem": "https://product-data.raiadrogasil.io/images/3464198.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/cotonetes-hastes-flexiveis-75-unidades.html"
   },
   {
-    "nome": "Kit Loção Hidratante Corporal Nivea Milk 400ml - 2 Unidades",
-    "preco": "R$ 33,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/842880-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-locao-hidratante-corporal-nivea-milk-400ml-2-unidades/p-842880"
+    "nome": "Algodão Bola Needs 50g",
+    "preco": "R$6,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/10878036.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-algodao-bola-50g.html"
   },
   {
-    "nome": "Protetor Diário Panvel Essencial Com 120 Unidades",
-    "preco": "R$ 22,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/110940-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/protetor-diario-panvel-essencial-com-120-unidades/p-110940"
+    "nome": "Algodão Disco Needs Beauty 100 Unidades",
+    "preco": "R$15,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3445527.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-algodao-disco-facial-leve-100-pague-80.html"
   },
   {
-    "nome": "Escova De Dente Elétrica Philips Colgate Sonicpro 10 Recarregável E Bivolt",
-    "preco": "R$ 149,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105648-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/escova-de-dente-eletrica-philips-colgate-sonicpro-10-recarregavel-e-bivolt/p-105648"
+    "nome": "Shampoo Anticaspa Clear Men Ice Cool Menthol 400ml",
+    "preco": "R$32,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/13076283.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/clear-men-shampoo-anti-caspa-ice-400ml-leve-mais-pague-menos.html"
   },
   {
-    "nome": "Enxaguatorio Bucal Colgate Periogard Sem Álcool 250ml",
-    "preco": "R$ 30,79",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/502270-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/enxaguatorio-bucal-colgate-periogard-sem-alcool-250ml/p-502270"
+    "nome": "Absorvente Intimus Noturno Cobertura Suave Com Abas Com 30 Unidades",
+    "preco": "R$29,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3471932.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/intimus-gel-absorvente-noturno-cobertura-suave-c-abas-30-unidades.html"
   },
   {
-    "nome": "Desodorante Antitranspirante Aerossol Monange Hidratação Intensiva 150ml",
-    "preco": "3 por R$ 7,33 cada",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/692370-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-monange-hidratacao-intensiva-150ml/p-692370"
+    "nome": "Sabonete Líquido Granado Bebê Tradicional 500ml",
+    "preco": "R$47,89",
+    "imagem": "https://product-data.raiadrogasil.io/images/3486402.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/sabonete-liquido-granado-bebe-tradicional-500ml.html"
   },
   {
-    "nome": "Kit Creme Dental Elmex Sensitive Profissional 2 Unidades 110g",
-    "preco": "R$ 39,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/93268-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-elmex-sensitive-profissional-2-unidades-110g/p-93268"
+    "nome": "Desodorante Antitranspirante Roll-On Perspirex Sem Perfume 20ml",
+    "preco": "R$137,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451218.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/perspirex-antiperspirante-roll-on-20ml.html"
   },
   {
-    "nome": "Desodorante Antitranspirante Aerossol Nivea Men Invisible Black & White 150ml",
-    "preco": "R$ 12,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/577840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-men-invisible-black-e-white-150ml/p-577840"
+    "nome": "Refil Sabonete Líquido Lux Botanicals Buquê De Jasmim 200ml",
+    "preco": "R$8,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451898.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-buque-de-jasmim-200ml.html"
   },
   {
-    "nome": "Sabonete Liquido Hidratante Antibacteriano Refil Panvel 1l",
-    "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105415-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-hidratante-antibacteriano-refil-panvel-1l/p-105415"
+    "nome": "Shampoo A Seco Ricca Menta 150ml",
+    "preco": "R$27,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/10669323.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/ricca-shampoo-a-seco-de-menta-150ml.html"
   },
   {
-    "nome": "Desodorante Gel Secret Algodão 45g",
-    "preco": "R$ 22,59",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105777-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-gel-secret-algodao-45g/p-105777"
+    "nome": "Refil Sabonete Líquido Corporal Dove Nutrição Profunda Com 200ml",
+    "preco": "R$11,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3454208.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-sab-liquido-nutricao-profunda-refil-200ml.html"
   },
   {
-    "nome": "Kit Escova Dental Colgate Zigzag Carvão 4 Unidades",
-    "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102631-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-dental-colgate-zigzag-carvao-4-unidades/p-102631"
+    "nome": "Desodorante Antitranspirante Aerosol Dove Original Feminino 48h 250ml",
+    "preco": "R$29,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/13661256.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-desodorante-antitranspirante-aerosol-original-250ml.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Lux Botanicals Lavanda Com 200ml",
+    "preco": "R$8,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451888.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-lavanda-200ml.html"
+  },
+  {
+    "nome": "Hastes Flexíveis Needs 75 Unidades",
+    "preco": "R$4,17",
+    "imagem": "https://product-data.raiadrogasil.io/images/3503401.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-hastes-flexiveis-cartucho-75-unidades.html"
+  },
+  {
+    "nome": "Creme Reparador Hidratante Mustela Bebê Cicastela Pele Sensibilizada Com 40ml",
+    "preco": "R$82,73",
+    "imagem": "https://product-data.raiadrogasil.io/images/13029092.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/creme-reparador-hidratante-mustela-cicastela.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Johnson's Baby Original Com 80g",
+    "preco": "R$6,29",
+    "imagem": "https://product-data.raiadrogasil.io/images/13186751.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/johnsons-sabonete-branco-80-g.html"
+  },
+  {
+    "nome": "Protetor Diário Carefree Tododia Sem Perfume 80 Unidades",
+    "preco": "R$28,49",
+    "imagem": "https://product-data.raiadrogasil.io/images/14551369.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/carefree-absorvente-tododia-leve-80-pague-60.html"
+  },
+  {
+    "nome": "Absorvente Sempre Livre Adapt Cobertura Suave Com Abas Com 32 Unidades",
+    "preco": "R$18,89",
+    "imagem": "https://product-data.raiadrogasil.io/images/14551489.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/sempre-livre-absorvente-ext-sl-adapt-sv-com-aba-32-unidades.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Bromélia 100g",
+    "preco": "R$4,49",
+    "imagem": "https://product-data.raiadrogasil.io/images/5110854.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-bromelia-100g.html"
+  },
+  {
+    "nome": "Absorvente Interno OB Sempre Livre ProComfort Super 16 Unidades",
+    "preco": "R$21,29",
+    "imagem": "https://product-data.raiadrogasil.io/images/14551482.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/ob-absorvente-interno-tamanho-super-com-16-unidades-leve-mais-pague-menos.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Flor Do Cajueiro 100g",
+    "preco": "R$4,49",
+    "imagem": "https://product-data.raiadrogasil.io/images/3536986.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-flor-do-cajueiro-100g.html"
+  },
+  {
+    "nome": "Shampoo Infantil Johnson's Baby Regular 400ml",
+    "preco": "R$30,29",
+    "imagem": "https://product-data.raiadrogasil.io/images/3470786.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/johnson-baby-shampoo-neutro-400-ml.html"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Dove Men +Care Proteção Total 72h 250ml",
+    "preco": "R$28,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/13159564.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-desodorante-antitranspirante-aerosol-men-care-cuidado-total-250ml.html"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Dove Men +Care Invisible Dry 48h 250ml",
+    "preco": "R$28,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/13661237.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/dove-desodorante-antitranspirante-aerossol-men-care-invisible-dry-250ml.html"
+  },
+  {
+    "nome": "Absorvente Intimus Tripla Proteção Cobertura Suave Com Abas Com 16 Unidades",
+    "preco": "R$10,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/11814050.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/intimus-gel-absorvente-tripla-cobertura-suave-com-abas-leve-16-pague-14.html"
+  },
+  {
+    "nome": "Hastes Flexíveis Needs 150 Unidades",
+    "preco": "R$8,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3446076.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-hastes-flexiveis-cartucho-150-unidades.html"
+  },
+  {
+    "nome": "Spray Antisséptico Needs Digluconato De Clorexidina 1% 30ml",
+    "preco": "R$8,99",
+    "imagem": "https://product-data.raiadrogasil.io/images/3468081.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/needs-gliconato-clorexidina-1-30ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Nivea Creme Care Promo 6 Uni 90g",
+    "preco": "R$26,95",
+    "imagem": "https://product-data.raiadrogasil.io/images/10662711.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/nivea-sabonete-barra-creme-care-box-leve-6-pague-5-com-90g-cada.html"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Rexona Men Active Dry Masculino 72h 150ml",
+    "preco": "R$18,49",
+    "imagem": "https://product-data.raiadrogasil.io/images/3457109.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/desodorante-aero-rexona-active-90g.html"
+  },
+  {
+    "nome": "Refil Sabonete Líquido Lux Botanicals Rosas Francesas Com 200ml",
+    "preco": "R$8,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/3451913.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-liquido-refil-rosas-francesas-200ml.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Gardênia E Óleo De Amêndoas Glicerinado 85g",
+    "preco": "R$2,59",
+    "imagem": "https://product-data.raiadrogasil.io/images/8554909.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/lux-sabonete-em-barra-gardenia-e-oleo-de-amendoas-85g-1022095.html"
+  },
+  {
+    "nome": "Protetor Diário Intimus Tecnologia Antibacteriana 80 Unidades",
+    "preco": "R$20,90",
+    "imagem": "https://product-data.raiadrogasil.io/images/11822174.webp?width=170&height=170&quality=85&type=resize",
+    "link": "https://www.drogasil.com.br/intimus-days-protetor-diario-antibacteriano-leve-mais-pague-menos-com-80-unidades.html"
+  },
+  {
+    "nome": "Absorvente Sempre Livre Adapt Cobertura Suave Com Abas Com 16 Unidades",
+    "preco": "R$10,89",
+    "imagem": "Imagem não encontrada",
+    "link": "https://www.drogasil.com.br/sempre-livre-especial-absorvente-toque-suave-neutralizador-de-odores-com-abas-16-unidades.html"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Dove Men +Care Invisible Dry 72h 150ml",
+    "preco": "R$19,90",
+    "imagem": "Imagem não encontrada",
+    "link": "https://www.drogasil.com.br/dove-men-desodorante-aerosol-antiperspirante-invisible-dry-89g.html"
+  },
+  {
+    "nome": "Hastes Flexíveis Ecológicas Needs 75 Unidades",
+    "preco": "R$5,02",
+    "imagem": "Imagem não encontrada",
+    "link": "https://www.drogasil.com.br/needs-hastes-flexiveis-ecologica-cartucho-75-unidades.html"
+  },
+  {
+    "nome": "Sabonete Em Barra Lux Botanicals Essências Do Brasil Dama-Da-Noite 100g",
+    "preco": "R$4,49",
+    "imagem": "Imagem não encontrada",
+    "link": "https://www.drogasil.com.br/lux-botanicals-sabonete-glicerinado-em-barra-essencias-do-brasil-dama-da-noite-100g.html"
   }
 ]

@@ -1,61 +1,37 @@
 [
   {
-    "nome": "Desodorante Roll On Perspirex 20ml",
-    "preco": "R$ 97,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/120309-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-roll-on-perspirex-20ml/p-120309"
+    "nome": "Shampoo Anticaspa Clear Men Ice Cool Menthol Leve 400ml Pague 330ml",
+    "preco": "R$ 29,90",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/120210-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/shampoo-anticaspa-clear-men-ice-cool-menthol-leve-400ml-pague-330ml/p-120210"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Clinical Classic 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117340-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-clinical-classic-150ml/p-117340"
+    "nome": "Desodorante Antitranspirante Aerossol Nivea Men Invisible Black & White 150ml",
+    "preco": "R$ 12,90",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/577840-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-men-invisible-black-e-white-150ml/p-577840"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Clinical Extra Dry 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117341-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-clinical-extra-dry-150ml/p-117341"
+    "nome": "Kit Creme Dental Sensodyne Alívio Rápido Duradouro Da Sensibilidade Dentes Sensíveis 3 Unidades 90g",
+    "preco": "R$ 24,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/111911-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-creme-dental-sensodyne-alivio-rapido-duradouro-da-sensibilidade-dentes-sensiveis-3-unidades-90g/p-111911"
   },
   {
-    "nome": "Desodorante Aerosol Rexona Men Clinical Clean 150ml",
-    "preco": "R$ 18,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117339-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-men-clinical-clean-150ml/p-117339"
+    "nome": "Kit Escova Dental Colgate Zigzag Carvão 4 Unidades",
+    "preco": "R$ 19,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102631-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-escova-dental-colgate-zigzag-carvao-4-unidades/p-102631"
   },
   {
-    "nome": "Shampoo Anticaspa Head & Shoulders Anticoceira 400ml",
-    "preco": "R$ 22,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/564290-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/shampoo-anticaspa-head-e-shoulders-anticoceira-400ml/p-564290"
-  },
-  {
-    "nome": "Escova Dental Elétrica A Pilhas Oral-b Power Pro Clean Branca",
-    "preco": "R$ 79,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/111840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/escova-dental-eletrica-a-pilhas-oral-b-power-pro-clean-branca/p-111840"
-  },
-  {
-    "nome": "Desodorante Antitranspirante Aerossol Nivea Derma Protect Clinical 150ml",
-    "preco": "R$ 14,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102031-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-derma-protect-clinical-150ml/p-102031"
-  },
-  {
-    "nome": "Kit Sabonete Em Barra Nivea Pure Milk Sensitive Promo 6 Unidades 90g Cada",
-    "preco": "R$ 26,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/107352-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-sabonete-em-barra-nivea-pure-milk-sensitive-promo-6-unidades-90g-cada/p-107352"
-  },
-  {
-    "nome": "Kit Creme Dental Colgate Sensitive Pro Alivio Xtreme Leve 3 Pague 2 90g Cada",
-    "preco": "R$ 23,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/91567-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-colgate-sensitive-pro-alivio-xtreme-leve-3-pague-2-90g-cada/p-91567"
+    "nome": "Sabonete Líquido Lux Botanicals Rosas Francesas 250ml",
+    "preco": "R$ 9,49",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/119774-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/sabonete-liquido-lux-botanicals-rosas-francesas-250ml/p-119774"
   },
   {
     "nome": "Kit Escova De Dente Colgate Slim Soft 4 Unidades",
-    "preco": "R$ 27,99",
+    "preco": "R$ 25,49",
     "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/108234-15.jpg?ims=205x",
     "link": "https://www.panvel.com/panvel/kit-escova-de-dente-colgate-slim-soft-4-unidades/p-108234"
   },
@@ -64,12 +40,6 @@
     "preco": "R$ 23,99",
     "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/114680-15.jpg?ims=205x",
     "link": "https://www.panvel.com/panvel/creme-dental-colgate-sensitive-pro-alivio-imediato-original-90g-3-unidades/p-114680"
-  },
-  {
-    "nome": "Sérum Hidratante Corporal Dove Niacinamida 380ml",
-    "preco": "R$ 46,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/94241-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/serum-hidratante-corporal-dove-niacinamida-380ml/p-94241"
   },
   {
     "nome": "Kit Creme Dental Colgate Luminous White Carvão Ativado 70g Com 3 Unidades",
@@ -82,12 +52,6 @@
     "preco": "R$ 38,90",
     "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/428480-15.jpg?ims=205x",
     "link": "https://www.panvel.com/panvel/sabonete-liquido-corporal-nivea-oleo-de-banho-com-200ml/p-428480"
-  },
-  {
-    "nome": "Kit Loção Hidratante Corporal Nivea Milk 400ml - 2 Unidades",
-    "preco": "R$ 33,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/842880-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-locao-hidratante-corporal-nivea-milk-400ml-2-unidades/p-842880"
   },
   {
     "nome": "Protetor Diário Panvel Essencial Com 120 Unidades",
@@ -115,15 +79,9 @@
   },
   {
     "nome": "Kit Creme Dental Elmex Sensitive Profissional 2 Unidades 110g",
-    "preco": "R$ 39,99",
+    "preco": "R$ 44,54",
     "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/93268-15.jpg?ims=205x",
     "link": "https://www.panvel.com/panvel/kit-creme-dental-elmex-sensitive-profissional-2-unidades-110g/p-93268"
-  },
-  {
-    "nome": "Desodorante Antitranspirante Aerossol Nivea Men Invisible Black & White 150ml",
-    "preco": "R$ 12,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/577840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-men-invisible-black-e-white-150ml/p-577840"
   },
   {
     "nome": "Sabonete Liquido Hidratante Antibacteriano Refil Panvel 1l",
@@ -132,15 +90,57 @@
     "link": "https://www.panvel.com/panvel/sabonete-liquido-hidratante-antibacteriano-refil-panvel-1l/p-105415"
   },
   {
-    "nome": "Desodorante Gel Secret Algodão 45g",
-    "preco": "R$ 22,59",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105777-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-gel-secret-algodao-45g/p-105777"
+    "nome": "Kit Creme Dental Clareador Colgate Luminous White Brilliant Mint 70g + Enxaguante Bucal 250ml",
+    "preco": "R$ 19,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/442090-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-creme-dental-clareador-colgate-luminous-white-brilliant-mint-70g-enxaguante-bucal-250ml/p-442090"
   },
   {
-    "nome": "Kit Escova Dental Colgate Zigzag Carvão 4 Unidades",
+    "nome": "Creme Dental Colgate Tripla Ação 180g Preço Especial",
+    "preco": "R$ 7,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/113910-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/creme-dental-colgate-tripla-acao-180g-preco-especial/p-113910"
+  },
+  {
+    "nome": "Kit Escova Dental Macia Colgate Classic Clean - 3 Unidades",
+    "preco": "R$ 11,69",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/632840-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-escova-dental-macia-colgate-classic-clean-3-unidades/p-632840"
+  },
+  {
+    "nome": "Enxaguante Colgate Periogard Uso Diário Sem Álcool 500ml",
+    "preco": "R$ 48,19",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/109984-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/enxaguante-colgate-periogard-uso-diario-sem-alcool-500ml/p-109984"
+  },
+  {
+    "nome": "Creme Dental Para Gengivite Colgate Periogard 90g",
+    "preco": "R$ 22,49",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/883470-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/creme-dental-para-gengivite-colgate-periogard-90g/p-883470"
+  },
+  {
+    "nome": "Sabonete Líquido Panvel Amora Refil 1 Litro",
     "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102631-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-dental-colgate-zigzag-carvao-4-unidades/p-102631"
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105411-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/sabonete-liquido-panvel-amora-refil-1-litro/p-105411"
+  },
+  {
+    "nome": "Kit Sabonete Em Barra Rexona Antibacterial Fresh 6 Unidades - 84g Cada",
+    "preco": "R$ 13,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/114288-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-sabonete-em-barra-rexona-antibacterial-fresh-6-unidades-84g-cada/p-114288"
+  },
+  {
+    "nome": "Enxaguatório Bucal Colgate Plax Odor Control Sem Alcool 750ml",
+    "preco": "R$ 19,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/99541-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/enxaguatorio-bucal-colgate-plax-odor-control-sem-alcool-750ml/p-99541"
+  },
+  {
+    "nome": "K-y Gel Lubrificante 100g",
+    "preco": "R$ 37,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/890320-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/k-y-gel-lubrificante-100g/p-890320"
   }
 ]
