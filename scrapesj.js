@@ -72,10 +72,13 @@ async function scrapeProdutos() {
             );
           const precoElement =
             produto.querySelector(
-              ".sjdigital-custom-apps-6-x-sellingPriceValue"
+              ".sjdigital-custom-apps-7-x-sellingPriceValue"
             ) ||
             produto.querySelector(
-              ".sjdigital-custom-apps-6-x-wholesaleSecondaryPriceShelf"
+              ".sjdigital-custom-apps-7-x-sellingPriceValue"
+            ) ||
+            produto.querySelector(
+              ".sjdigital-custom-apps-7-x-currencyContainer"
             );
           // Acessa o href do elemento pai (a tag <a>)
           const linkElement = produto.parentElement;
@@ -122,8 +125,8 @@ async function scrapeProdutos() {
       console.log("Arquivo JSON salvo como 'produtos-saojoao.json'");
     }
 
-    await page.screenshot({ path: "saojoao-screenshot.png" });
-    console.log("Screenshot salvo como 'saojoao-screenshot.png'");
+    // await page.screenshot({ path: "saojoao-screenshot.png" });
+    // console.log("Screenshot salvo como 'saojoao-screenshot.png'");
 
     await browser.close();
     console.log("Navegador fechado");

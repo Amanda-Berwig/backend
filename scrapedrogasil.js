@@ -143,9 +143,9 @@ async function scrapeProdutos() {
       console.log("Arquivo JSON salvo como 'produtos-drogasil.json'");
     }
 
-    // Capturar screenshot para debug
-    await page.screenshot({ path: "drogasil-screenshot.png" });
-    console.log("Screenshot salvo como 'drogasil-screenshot.png'");
+    // // Capturar screenshot para debug
+    // await page.screenshot({ path: "drogasil-screenshot.png" });
+    // console.log("Screenshot salvo como 'drogasil-screenshot.png'");
 
     await browser.close();
     console.log("Navegador fechado");
