@@ -35,7 +35,9 @@ Projeto fullstack em desenvolvimento que compara preços de produtos entre farm�
 - Tabela com farmácias como colunas e produtos como linhas
 - **Produto mais barato é destacado** por linha
 
-## ![Tela de Comparação](./screenshots/tela-comparacao.png)
+## ![Tela de Comparação]
+
+![tela comparação](./screenshots/tela-comparacao.png)
 
 ## 🚀 Tecnologias
 
