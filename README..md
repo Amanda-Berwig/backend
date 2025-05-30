@@ -24,9 +24,9 @@ Projeto fullstack em desenvolvimento que compara preços de produtos entre farm�
 
 ## 🖼️ Screenshots
 
-![Tela de Produtos](/produtos-sj.png)
+![Tela de Produtos](./screenshots/produtos-sj.png)
 
-![Tela de Produtos](/produtos-drogasil.png)
+![Tela de Produtos](./screenshots/produtos-drogasil.png)
 
 ---
 
@@ -35,7 +35,7 @@ Projeto fullstack em desenvolvimento que compara preços de produtos entre farm�
 - Tabela com farmácias como colunas e produtos como linhas
 - **Produto mais barato é destacado** por linha
 
-## ![Tela de Comparação](/tela-comparacao.png)
+## ![Tela de Comparação](./screenshots/tela-comparacao.png)
 
 ## 🚀 Tecnologias
 
