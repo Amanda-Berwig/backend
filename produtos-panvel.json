@@ -1,39 +1,9 @@
 [
   {
-    "nome": "Shampoo Anticaspa Clear Men Ice Cool Menthol Leve 400ml Pague 330ml",
-    "preco": "R$ 29,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/120210-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/shampoo-anticaspa-clear-men-ice-cool-menthol-leve-400ml-pague-330ml/p-120210"
-  },
-  {
-    "nome": "Desodorante Antitranspirante Aerossol Nivea Men Invisible Black & White 150ml",
-    "preco": "3 por R$ 11,49 cada",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/577840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-men-invisible-black-e-white-150ml/p-577840"
-  },
-  {
-    "nome": "Kit Creme Dental Sensodyne Alívio Rápido Duradouro Da Sensibilidade Dentes Sensíveis 3 Unidades 90g",
-    "preco": "R$ 24,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/111911-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-sensodyne-alivio-rapido-duradouro-da-sensibilidade-dentes-sensiveis-3-unidades-90g/p-111911"
-  },
-  {
-    "nome": "Kit Escova Dental Colgate Zigzag Carvão 4 Unidades",
-    "preco": "R$ 14,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/102631-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-dental-colgate-zigzag-carvao-4-unidades/p-102631"
-  },
-  {
-    "nome": "Sabonete Líquido Lux Botanicals Rosas Francesas 250ml",
-    "preco": "R$ 9,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/119774-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-lux-botanicals-rosas-francesas-250ml/p-119774"
-  },
-  {
-    "nome": "Kit Escova De Dente Colgate Slim Soft 4 Unidades",
-    "preco": "R$ 21,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/108234-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-de-dente-colgate-slim-soft-4-unidades/p-108234"
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona Active Dry 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/659930-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-active-dry-72-horas-150ml/p-659930"
   },
   {
     "nome": "Creme Dental Colgate Sensitive Pro Alívio Imediato Original 90g 3 Unidades",
@@ -42,22 +12,16 @@
     "link": "https://www.panvel.com/panvel/creme-dental-colgate-sensitive-pro-alivio-imediato-original-90g-3-unidades/p-114680"
   },
   {
-    "nome": "Kit Creme Dental Colgate Luminous White Carvão Ativado 70g Com 3 Unidades",
-    "preco": "R$ 15,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/94401-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-colgate-luminous-white-carvao-ativado-70g-com-3-unidades/p-94401"
+    "nome": "Absorvente Sempre Livre Adapt Suave Com Abas 32 Unidades",
+    "preco": "R$ 15,59",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/106125-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/absorvente-sempre-livre-adapt-suave-com-abas-32-unidades/p-106125"
   },
   {
-    "nome": "Sabonete Líquido Corporal Nivea Óleo De Banho Com 200ml",
-    "preco": "R$ 38,90",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/428480-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-corporal-nivea-oleo-de-banho-com-200ml/p-428480"
-  },
-  {
-    "nome": "Protetor Diário Panvel Essencial Com 120 Unidades",
-    "preco": "R$ 22,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/110940-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/protetor-diario-panvel-essencial-com-120-unidades/p-110940"
+    "nome": "Kit Creme Dental Sensodyne Branqueador Extra Fresh Para Dentes Sensíveis 90g Leve 3 Pague 2",
+    "preco": "R$ 24,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/109974-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-creme-dental-sensodyne-branqueador-extra-fresh-para-dentes-sensiveis-90g-leve-3-pague-2/p-109974"
   },
   {
     "nome": "Escova De Dente Elétrica Philips Colgate Sonicpro 10 Recarregável E Bivolt",
@@ -66,81 +30,117 @@
     "link": "https://www.panvel.com/panvel/escova-de-dente-eletrica-philips-colgate-sonicpro-10-recarregavel-e-bivolt/p-105648"
   },
   {
-    "nome": "Enxaguatorio Bucal Colgate Periogard Sem Álcool 250ml",
-    "preco": "R$ 28,69",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/502270-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/enxaguatorio-bucal-colgate-periogard-sem-alcool-250ml/p-502270"
+    "nome": "Desodorante Antitranspirante Aerossol Nivea Men Invisible Black & White 150ml",
+    "preco": "2 por R$ 11,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/577840-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-nivea-men-invisible-black-e-white-150ml/p-577840"
   },
   {
-    "nome": "Desodorante Antitranspirante Aerossol Monange Hidratação Intensiva 150ml",
-    "preco": "3 por R$ 7,33 cada",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/692370-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerossol-monange-hidratacao-intensiva-150ml/p-692370"
+    "nome": "Sabonete Íntimo Dermacyd Neutralize 200ml Portinari",
+    "preco": "R$ 20,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/670500-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/sabonete-intimo-dermacyd-neutralize-200ml-portinari/p-670500"
   },
   {
-    "nome": "Kit Creme Dental Elmex Sensitive Profissional 2 Unidades 110g",
-    "preco": "R$ 49,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/93268-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-elmex-sensitive-profissional-2-unidades-110g/p-93268"
+    "nome": "Desodorante Em Creme Rexona Clinical Classic 96h 58g",
+    "preco": "R$ 22,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/96758-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-em-creme-rexona-clinical-classic-96h-58g/p-96758"
   },
   {
-    "nome": "Sabonete Liquido Hidratante Antibacteriano Refil Panvel 1l",
-    "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105415-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-hidratante-antibacteriano-refil-panvel-1l/p-105415"
+    "nome": "Desodorante Antitranspirante Aerosol Feminino Rexona Powder Dry 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/499250-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-feminino-rexona-powder-dry-72-horas-150ml/p-499250"
   },
   {
-    "nome": "Kit Creme Dental Clareador Colgate Luminous White Brilliant Mint 70g + Enxaguante Bucal 250ml",
-    "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/442090-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-creme-dental-clareador-colgate-luminous-white-brilliant-mint-70g-enxaguante-bucal-250ml/p-442090"
+    "nome": "Desodorante Roll On Perspirex Strong 20ml",
+    "preco": "R$ 99,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/107884-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-roll-on-perspirex-strong-20ml/p-107884"
   },
   {
-    "nome": "Creme Dental Colgate Tripla Ação 180g Preço Especial",
-    "preco": "R$ 7,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/113910-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/creme-dental-colgate-tripla-acao-180g-preco-especial/p-113910"
+    "nome": "Desodorante Aerosol Dove Original 48h 250ml Leve Mais Pague Menos",
+    "preco": "R$ 24,90",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105458-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-aerosol-dove-original-48h-250ml-leve-mais-pague-menos/p-105458"
   },
   {
-    "nome": "Kit Escova Dental Macia Colgate Classic Clean - 3 Unidades",
-    "preco": "R$ 10,49",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/632840-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-escova-dental-macia-colgate-classic-clean-3-unidades/p-632840"
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona V8 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/660010-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-v8-72-horas-150ml/p-660010"
   },
   {
-    "nome": "Enxaguante Colgate Periogard Uso Diário Sem Álcool 500ml",
-    "preco": "R$ 46,59",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/109984-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/enxaguante-colgate-periogard-uso-diario-sem-alcool-500ml/p-109984"
+    "nome": "Kit Escova De Dente Colgate Slim Soft 4 Unidades",
+    "preco": "R$ 25,49",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/108234-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-escova-de-dente-colgate-slim-soft-4-unidades/p-108234"
   },
   {
-    "nome": "Creme Dental Para Gengivite Colgate Periogard 90g",
-    "preco": "R$ 23,79",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/883470-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/creme-dental-para-gengivite-colgate-periogard-90g/p-883470"
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona Extracool 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/660030-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-extracool-72-horas-150ml/p-660030"
   },
   {
-    "nome": "Sabonete Líquido Panvel Amora Refil 1 Litro",
-    "preco": "R$ 19,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/105411-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/sabonete-liquido-panvel-amora-refil-1-litro/p-105411"
+    "nome": "Desodorante Roll On Perspirex 20ml",
+    "preco": "R$ 97,49",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/120309-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-roll-on-perspirex-20ml/p-120309"
   },
   {
-    "nome": "Kit Sabonete Em Barra Rexona Antibacterial Fresh 6 Unidades - 84g Cada",
-    "preco": "R$ 13,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/114288-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/kit-sabonete-em-barra-rexona-antibacterial-fresh-6-unidades-84g-cada/p-114288"
+    "nome": "Desodorante Aerosol Rexona Clinical Classic 150ml",
+    "preco": "R$ 18,49",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117340-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-aerosol-rexona-clinical-classic-150ml/p-117340"
   },
   {
-    "nome": "Enxaguatório Bucal Colgate Plax Odor Control Sem Alcool 750ml",
-    "preco": "R$ 19,48",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/99541-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/enxaguatorio-bucal-colgate-plax-odor-control-sem-alcool-750ml/p-99541"
+    "nome": "Desodorante Aerosol Dove Original 150ml",
+    "preco": "2 por R$ 16,99 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/833110-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-aerosol-dove-original-150ml/p-833110"
   },
   {
-    "nome": "K-y Gel Lubrificante 100g",
-    "preco": "R$ 37,99",
-    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/890320-15.jpg?ims=205x",
-    "link": "https://www.panvel.com/panvel/k-y-gel-lubrificante-100g/p-890320"
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona Antibacterial + Invisible 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/832370-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-antibacterial-invisible-72-horas-150ml/p-832370"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona Impacto 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/848870-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-impacto-72-horas-150ml/p-848870"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Feminino Rexona Active Emotion 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/499420-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-feminino-rexona-active-emotion-72-horas-150ml/p-499420"
+  },
+  {
+    "nome": "Kit Creme Dental Sensodyne Alívio Rápido Duradouro Da Sensibilidade Dentes Sensíveis 3 Unidades 90g",
+    "preco": "R$ 24,99",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/111911-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/kit-creme-dental-sensodyne-alivio-rapido-duradouro-da-sensibilidade-dentes-sensiveis-3-unidades-90g/p-111911"
+  },
+  {
+    "nome": "Absorvente Externo Intimus Tripla Proteção Suave Com Abas 32 Unidades",
+    "preco": "R$ 18,89",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/435230-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/absorvente-externo-intimus-tripla-protecao-suave-com-abas-32-unidades/p-435230"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Rexona Feminino Frutas Vermelhas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/117342-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-rexona-feminino-frutas-vermelhas-150ml/p-117342"
+  },
+  {
+    "nome": "Desodorante Antitranspirante Aerosol Masculino Rexona Invisible 72 Horas 150ml",
+    "preco": "2 por R$ 13,90 cada",
+    "imagem": "https://cdn1.staticpanvel.com.br/produtos/15/659960-15.jpg?ims=205x",
+    "link": "https://www.panvel.com/panvel/desodorante-antitranspirante-aerosol-masculino-rexona-invisible-72-horas-150ml/p-659960"
   }
 ]
