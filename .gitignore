@@ -1,0 +1,20 @@
+# Geral
+node_modules/
+.env
+.DS_Store
+
+# React frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Node backend
+backend/node_modules/
+backend/.env
+
+# Puppeteer Chromium downloads (se usar)
+**/.local-chromium/
+
+# IDEs
+.vscode/
+.idea/
